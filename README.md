@@ -1,5 +1,5 @@
 # Animação - Bola
-Projeto com a finalidade de treinar habilidades relativa a linguagem CSS.
+Projeto com a finalidade de treinar habilidades relativas a linguagem CSS.
 
 ## Layout
 <img src="./bola.gif" alt= "gif bola">     
